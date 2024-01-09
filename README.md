@@ -12,6 +12,7 @@ https://github.com/rama2003-eng/3-player_dicegame
 Open the Portal:
 
 Navigate to the project folder.
+
 Open the index.html file in your preferred web browser.
 
 Roll the Dice:
